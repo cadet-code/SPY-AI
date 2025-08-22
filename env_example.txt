@@ -1,0 +1,26 @@
+# API Keys
+OPENAI_API_KEY=your_openai_api_key_here
+GOOGLE_CLIENT_ID=your_google_client_id_here
+GOOGLE_CLIENT_SECRET=your_google_client_secret_here
+RESEND_API_KEY=your_resend_api_key_here
+
+# Spa Configuration
+SPA_MANAGER_EMAIL=manager@yourspa.com
+SPA_NAME=Luxury Spa & Wellness
+SPA_ADDRESS=123 Wellness Street, City, State 12345
+SPA_PHONE=+1 (555) 123-4567
+
+# Google Services
+GOOGLE_CALENDAR_ID=primary
+GOOGLE_SHEETS_ID=your_google_sheets_id_here
+
+# Database
+DATABASE_URL=sqlite:///./spa_automation.db
+
+# AI Configuration
+AI_MODEL=gpt-3.5-turbo
+MAX_TOKENS=1000
+
+# Appointment Settings
+APPOINTMENT_DURATION=60
+BUFFER_TIME=15
